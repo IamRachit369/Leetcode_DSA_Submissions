@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0458-poor-pigs) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -27,4 +28,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0458-poor-pigs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0458-poor-pigs) |
+## Array
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Sorting
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Simulation
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 <!---LeetCode Topics End-->
