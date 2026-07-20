@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
 | [0458-poor-pigs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0458-poor-pigs) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1260-shift-2d-grid) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
