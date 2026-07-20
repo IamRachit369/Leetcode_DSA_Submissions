@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
 | [0458-poor-pigs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0458-poor-pigs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0045-jump-game-ii) |
+| [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
