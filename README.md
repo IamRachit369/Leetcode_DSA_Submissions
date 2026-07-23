@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0045-jump-game-ii) |
 | [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1260-shift-2d-grid](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1260-shift-2d-grid) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0125-valid-palindrome) |
 | [0316-remove-duplicate-letters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Linked List
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0868-binary-gap) |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Enumeration
 |  |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2360-longest-cycle-in-a-graph) |
+## Backtracking
+|  |
+| ------- |
+| [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 <!---LeetCode Topics End-->
