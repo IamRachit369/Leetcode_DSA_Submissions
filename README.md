@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0279-perfect-squares) |
 | [0886-possible-bipartition](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0886-possible-bipartition) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
 | [0233-number-of-digit-one](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0279-perfect-squares) |
 | [0458-poor-pigs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0458-poor-pigs) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0045-jump-game-ii) |
 | [0233-number-of-digit-one](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0279-perfect-squares) |
 | [0458-poor-pigs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0458-poor-pigs) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2786-visit-array-positions-to-maximize-score) |
