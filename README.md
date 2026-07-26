@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0045-jump-game-ii) |
 | [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0217-contains-duplicate) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0931-minimum-falling-path-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0931-minimum-falling-path-sum) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [3536-maximum-product-of-two-digits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0217-contains-duplicate) |
 | [0264-ugly-number-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0264-ugly-number-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
