@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0191-number-of-1-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0868-binary-gap) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -208,4 +209,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
