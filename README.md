@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0045-jump-game-ii) |
 | [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0931-minimum-falling-path-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0931-minimum-falling-path-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0264-ugly-number-ii) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0191-number-of-1-bits) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
