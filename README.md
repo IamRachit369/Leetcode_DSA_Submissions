@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3926-count-valid-word-occurrences](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3926-count-valid-word-occurrences) |
 ## Two Pointers
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3926-count-valid-word-occurrences](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3926-count-valid-word-occurrences) |
 ## Union-Find
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3926-count-valid-word-occurrences](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3926-count-valid-word-occurrences) |
 ## Binary Search
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3926-count-valid-word-occurrences](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3926-count-valid-word-occurrences) |
 ## Linked List
 |  |
 | ------- |
