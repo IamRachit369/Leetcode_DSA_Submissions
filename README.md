@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0279-perfect-squares) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0458-poor-pigs) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0931-minimum-falling-path-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0983-minimum-cost-for-tickets) |
 | [1012-numbers-with-repeated-digits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1012-numbers-with-repeated-digits) |
