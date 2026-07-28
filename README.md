@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0233-number-of-digit-one) |
+| [0258-add-digits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0258-add-digits) |
 | [0264-ugly-number-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0279-perfect-squares) |
 | [0458-poor-pigs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0458-poor-pigs) |
@@ -132,11 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
