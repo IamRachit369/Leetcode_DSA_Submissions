@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0279-perfect-squares) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0231-power-of-two) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0868-binary-gap) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0233-number-of-digit-one) |
 ## Topological Sort
 |  |
