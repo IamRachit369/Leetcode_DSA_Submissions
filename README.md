@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0279-perfect-squares) |
 | [0458-poor-pigs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0458-poor-pigs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0268-missing-number) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0605-can-place-flowers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0264-ugly-number-ii) |
+| [0268-missing-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0268-missing-number) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0268-missing-number) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Prefix Sum
@@ -241,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0868-binary-gap) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
