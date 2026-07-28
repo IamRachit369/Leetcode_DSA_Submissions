@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0234-palindrome-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0316-remove-duplicate-letters) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0233-number-of-digit-one) |
+| [0234-palindrome-linked-list](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0234-palindrome-linked-list) |
 ## Topological Sort
 |  |
 | ------- |
