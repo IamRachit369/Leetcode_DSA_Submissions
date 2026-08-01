@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0279-perfect-squares) |
 | [0458-poor-pigs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0458-poor-pigs) |
+| [0486-predict-the-winner](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1012-numbers-with-repeated-digits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1012-numbers-with-repeated-digits) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0279-perfect-squares) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0458-poor-pigs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0458-poor-pigs) |
+| [0486-predict-the-winner](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0486-predict-the-winner) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0746-min-cost-climbing-stairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0931-minimum-falling-path-sum) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0268-missing-number) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0486-predict-the-winner) |
 | [0605-can-place-flowers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0746-min-cost-climbing-stairs) |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0486-predict-the-winner) |
 ## Topological Sort
 |  |
 | ------- |
@@ -345,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
