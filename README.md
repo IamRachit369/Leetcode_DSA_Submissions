@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1012-numbers-with-repeated-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1185-day-of-the-week](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1185-day-of-the-week) |
+| [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2786-visit-array-positions-to-maximize-score) |
 ## Combinatorics
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1260-shift-2d-grid](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1260-shift-2d-grid) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
+| [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -364,4 +367,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
