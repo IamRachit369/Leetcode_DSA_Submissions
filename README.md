@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0485-max-consecutive-ones](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0746-min-cost-climbing-stairs) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0219-contains-duplicate-ii) |
 | [0264-ugly-number-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0496-next-greater-element-i) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -292,12 +294,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0316-remove-duplicate-letters) |
+| [0496-next-greater-element-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0496-next-greater-element-i) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
