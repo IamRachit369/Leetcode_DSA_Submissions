@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0684-redundant-connection) |
 | [0886-possible-bipartition](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Counting Sort
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
