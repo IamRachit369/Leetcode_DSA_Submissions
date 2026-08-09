@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0279-perfect-squares) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0127-word-ladder](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0205-isomorphic-strings) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0205-isomorphic-strings) |
@@ -420,4 +423,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0543-diameter-of-binary-tree) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
