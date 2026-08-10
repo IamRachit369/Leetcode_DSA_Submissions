@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0684-redundant-connection) |
 | [0886-possible-bipartition](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 ## Tree
 |  |
 | ------- |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0316-remove-duplicate-letters) |
 | [0752-open-the-lock](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0752-open-the-lock) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
