@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0279-perfect-squares) |
 | [0684-redundant-connection](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0684-redundant-connection) |
+| [0752-open-the-lock](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0752-open-the-lock) |
 | [0886-possible-bipartition](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0746-min-cost-climbing-stairs) |
+| [0752-open-the-lock](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0752-open-the-lock) |
 | [0877-stone-game](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0931-minimum-falling-path-sum) |
 | [0983-minimum-cost-for-tickets](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0983-minimum-cost-for-tickets) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0496-next-greater-element-i) |
+| [0752-open-the-lock](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0752-open-the-lock) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0205-isomorphic-strings) |
 | [0316-remove-duplicate-letters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0316-remove-duplicate-letters) |
+| [0752-open-the-lock](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0752-open-the-lock) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -428,4 +432,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0127-word-ladder) |
+| [0752-open-the-lock](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
