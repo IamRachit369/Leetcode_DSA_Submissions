@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1140-stone-game-ii) |
 | [1185-day-of-the-week](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1185-day-of-the-week) |
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Combinatorics
@@ -424,16 +426,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
 ## DP on Trees
 |  |
 | ------- |
@@ -447,4 +452,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
