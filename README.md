@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1012-numbers-with-repeated-digits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1012-numbers-with-repeated-digits) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1140-stone-game-ii) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1140-stone-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1140-stone-game-ii) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1260-shift-2d-grid](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1260-shift-2d-grid) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0752-open-the-lock](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0752-open-the-lock) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
