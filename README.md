@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2786-visit-array-positions-to-maximize-score) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2285-maximum-total-importance-of-roads) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3536-maximum-product-of-two-digits) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1218-longest-arithmetic-subsequence-of-given-difference) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
