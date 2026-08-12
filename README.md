@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0046-permutations) |
 | [0088-merge-sorted-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0217-contains-duplicate) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0046-permutations) |
 | [1239-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1239-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Heap (Priority Queue)
