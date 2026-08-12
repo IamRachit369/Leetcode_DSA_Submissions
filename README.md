@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2101-detonate-the-maximum-bombs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3310-remove-methods-from-project) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
+| [2101-detonate-the-maximum-bombs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2360-longest-cycle-in-a-graph](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2360-longest-cycle-in-a-graph) |
 | [3310-remove-methods-from-project](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1615-maximal-network-rank) |
+| [2101-detonate-the-maximum-bombs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2285-maximum-total-importance-of-roads](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2285-maximum-total-importance-of-roads) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2360-longest-cycle-in-a-graph](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2360-longest-cycle-in-a-graph) |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2101-detonate-the-maximum-bombs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2101-detonate-the-maximum-bombs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -486,4 +491,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [2101-detonate-the-maximum-bombs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
