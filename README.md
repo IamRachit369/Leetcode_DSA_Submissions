@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0217-contains-duplicate) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0234-palindrome-linked-list) |
@@ -469,9 +471,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Randomized
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
