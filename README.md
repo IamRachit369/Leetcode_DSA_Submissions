@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2029-stone-game-ix) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1872-stone-game-viii) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
 ## String
 |  |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -499,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -506,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2029-stone-game-ix) |
 ## DP on Trees
 |  |
