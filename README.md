@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1563-stone-game-v) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2786-visit-array-positions-to-maximize-score) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3850-count-sequences-to-k](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3850-count-sequences-to-k) |
 ## Combinatorics
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0931-minimum-falling-path-sum](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1260-shift-2d-grid) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Bit Manipulation
 |  |
 | ------- |
