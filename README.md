@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2786-visit-array-positions-to-maximize-score](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2786-visit-array-positions-to-maximize-score) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2029-stone-game-ix) |
 | [2087-minimum-cost-homecoming-of-a-robot-in-a-grid](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2087-minimum-cost-homecoming-of-a-robot-in-a-grid) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2285-maximum-total-importance-of-roads](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2285-maximum-total-importance-of-roads) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
