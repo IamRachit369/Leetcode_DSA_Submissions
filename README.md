@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3850-count-sequences-to-k](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3850-count-sequences-to-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Dynamic Programming
 |  |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3731-find-missing-elements) |
 | [3850-count-sequences-to-k](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3850-count-sequences-to-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3926-count-valid-word-occurrences](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3926-count-valid-word-occurrences) |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 ## Two Pointers
