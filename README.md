@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0886-possible-bipartition](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
+| [1514-path-with-maximum-probability](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1615-maximal-network-rank) |
 | [2101-detonate-the-maximum-bombs](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2101-detonate-the-maximum-bombs) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1406-stone-game-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1514-path-with-maximum-probability) |
 | [1563-stone-game-v](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0264-ugly-number-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1514-path-with-maximum-probability](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1514-path-with-maximum-probability) |
 | [2285-maximum-total-importance-of-roads](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/2285-maximum-total-importance-of-roads) |
 ## Divide and Conquer
 |  |
@@ -602,4 +605,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0518-coin-change-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1514-path-with-maximum-probability) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1514-path-with-maximum-probability](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/1514-path-with-maximum-probability) |
 <!---LeetCode Topics End-->
