@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0045-jump-game-ii) |
+| [0115-distinct-subsequences](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0152-maximum-product-subarray) |
 | [0233-number-of-digit-one](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0233-number-of-digit-one) |
 | [0264-ugly-number-ii](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0264-ugly-number-ii) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0008-string-to-integer-atoi) |
 | [0038-count-and-say](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0038-count-and-say) |
+| [0115-distinct-subsequences](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0127-word-ladder) |
 | [0168-excel-sheet-column-title](https://github.com/IamRachit369/Leetcode_DSA_Submissions/tree/master/0168-excel-sheet-column-title) |
